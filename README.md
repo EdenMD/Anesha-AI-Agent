@@ -1,7 +1,7 @@
 # Anesha AI: The Agentic Operating System for Software Engineering
 
 <p align="center">
-  <img src="https://i.imgur.com/your-logo-here.png" alt="Anesha AI Logo" width="150"/>
+  <img src="https://files.catbox.moe/5gkzj5.png" alt="Anesha AI Logo" width="150"/>
 </p>
 
 <h1 align="center">Stop Assisting. Start Commanding.</h1>
